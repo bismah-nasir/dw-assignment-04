@@ -40,7 +40,7 @@ This project is part of the **Data Warehousing and Data Mining (BSCS-635)** cour
 
 ---
 
-## 🧹 ETL Steps
+## 🧹 ECT Steps
 
 **Extract**:  
 - Loaded the dataset from a CSV file using pandas.
